@@ -1,7 +1,6 @@
 /* Background */
 html {
-  background: url("https://mobimg.b-cdn.net/v3/fetch/a0/a08ebf783395181cd28691099552e196.jpeg")
-    no-repeat center fixed;
+  background: url("img/quizback.jpeg") no-repeat center fixed;
   background-size: cover;
   background-position: 0px 0px;
 }
