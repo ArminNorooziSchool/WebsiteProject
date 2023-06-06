@@ -1,8 +1,8 @@
 /* Background */
 html {
-  background: url("img/quizback.jpeg") no-repeat center fixed;
-  background-size: cover;
-  background-position: 0px 0px;
+  background: url("img/quizback.jpeg") no-repeat center;
+  background-size:140%;
+  background-position: -282px 0px;
 }
 
 /* Allow the body to stand out, and formatting */
