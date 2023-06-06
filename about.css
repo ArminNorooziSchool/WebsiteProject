@@ -1,8 +1,7 @@
 /* Background */
 html {
-  background: url("https://free4kwallpapers.com/uploads/originals/2015/07/23/pokemon-pikachu.jpg")
-    no-repeat center fixed;
-  background-size: cover;
+  background: url("img/aboutback.jpg") no-repeat center fixed;
+  background-size:auto;
   background-position: 0px -190px;
 }
 

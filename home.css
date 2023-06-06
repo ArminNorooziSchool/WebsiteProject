@@ -1,7 +1,6 @@
 /* Background */
 html {
-  background: url("https://assets.pokemon.com//assets/cms2/img/misc/virtual-backgrounds/go/pokemon-party.jpg")
-    no-repeat center fixed;
+  background: url("img/homeback.jpg") no-repeat center fixed;
   background-size: cover;
   background-position: 0px 0px;
 }
